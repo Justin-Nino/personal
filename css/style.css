@@ -1,0 +1,46 @@
+*{
+    margin: 2%;
+    padding: 0;
+    box-sizing: border-box
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: lightgray;
+}
+h1{
+    text-align: left;
+    font-family: verdana;
+    padding-top: 4%;
+    letter-spacing: 4px;
+    display: inline-block;
+    margin-bottom: 20px;
+    background: linear-gradient(120deg, #1c99fe 20.69%, #7644ff 50.19%, #fd4766 79.69%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+img{
+    border-radius: 50%;
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    top: 10%;
+}
+#right{
+    text-align: right;
+    padding-right: 28%;
+    margin-top: 0;
+}
+li{
+    font-weight: bold;
+    font-size: 20px;
+}
+p{
+    padding-right: 30%;
+    text-align: justify;
+}
+.school{
+    color: #fd4766;
+    font-weight: 10%;
+
+}
